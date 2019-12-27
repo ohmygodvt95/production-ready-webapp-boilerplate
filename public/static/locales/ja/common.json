@@ -1,0 +1,17 @@
+{
+  "Hello": "こんにちは",
+  "Home": "トップ",
+  "About": "約",
+  "Help": "ヘルプ",
+  "Privacy": "個人情報保護方針",
+  "Terms": "利用規約",
+  "Search": "探す",
+  "Tags": "タグ",
+  "Type": "タイプ",
+  "Most View Pokémons": "最も見られましたPokémons",
+  "Viral Pokémons": "ウイルスPokémons",
+  "ShowingXresult": "{{count}}件の結果を表示",
+  "ShowingXresult_plural": "{{count}}件の結果を表示",
+  "ErrorPageMessageServer": "サーバーでエラー{{statusCode}}が発生しました",
+  "ErrorPageMessageClient": "クライアントでエラー{{statusCode}}が発生しました "
+}
